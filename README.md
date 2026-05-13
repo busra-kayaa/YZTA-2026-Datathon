@@ -1,4 +1,4 @@
-# YZTA 2026 Datathon -
+# YZTA 2026 Datathon 
 
 Bu depo, **Yapay Zeka ve Teknoloji Akademisi (YZTA) 2026 Datathon** yarışması kapsamında geliştirilen tahmin modellerini, veri analizi süreçlerini ve en yüksek skoru üreten submission (teslim) dosyalarını içermektedir. 
 
